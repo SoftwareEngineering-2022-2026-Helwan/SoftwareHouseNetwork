@@ -1,0 +1,34 @@
+# This file is an output of a discrete event simulation.
+# It contains spanning tree information to be parsed while
+# visualizing the spanning tree using the Protocols->STP menu.
+# Legend: node name, VID, VLAN/tree name, port/node type, link name.
+Logical Network.node_9,0,Common ST,root,none
+Logical Network.node_9,0,Common ST,designated_port,Logical Network.node_9 <-> node_18
+Logical Network.node_9,0,Common ST,designated_port,Logical Network.node_9 <-> node_0
+Logical Network.node_9,0,Common ST,designated_port,Logical Network.Alex_Router <-> node_9
+Logical Network.node_10,0,Common ST,root,none
+Logical Network.node_10,0,Common ST,designated_port,Logical Network.node_10 <-> node_1
+Logical Network.node_10,0,Common ST,designated_port,Logical Network.Alex_Router <-> node_10
+Logical Network.node_11,0,Common ST,root,none
+Logical Network.node_11,0,Common ST,designated_port,Logical Network.node_11 <-> node_2
+Logical Network.node_11,0,Common ST,designated_port,Logical Network.Alex_Router <-> node_11
+Logical Network.node_12,0,Common ST,root,none
+Logical Network.node_12,0,Common ST,designated_port,Logical Network.node_12 <-> node_19
+Logical Network.node_12,0,Common ST,designated_port,Logical Network.node_12 <-> node_3
+Logical Network.node_12,0,Common ST,designated_port,Logical Network.node_12 <-> Cai_Router
+Logical Network.node_13,0,Common ST,root,none
+Logical Network.node_13,0,Common ST,designated_port,Logical Network.node_13 <-> node_4
+Logical Network.node_13,0,Common ST,designated_port,Logical Network.node_13 <-> Cai_Router
+Logical Network.node_14,0,Common ST,root,none
+Logical Network.node_14,0,Common ST,designated_port,Logical Network.node_14 <-> node_5
+Logical Network.node_14,0,Common ST,designated_port,Logical Network.node_14 <-> Cai_Router
+Logical Network.node_15,0,Common ST,root,none
+Logical Network.node_15,0,Common ST,designated_port,Logical Network.node_15 <-> node_20
+Logical Network.node_15,0,Common ST,designated_port,Logical Network.node_15 <-> node_6
+Logical Network.node_15,0,Common ST,designated_port,Logical Network.Min_Router <-> node_15
+Logical Network.node_16,0,Common ST,root,none
+Logical Network.node_16,0,Common ST,designated_port,Logical Network.node_16 <-> node_7
+Logical Network.node_16,0,Common ST,designated_port,Logical Network.Min_Router <-> node_16
+Logical Network.node_17,0,Common ST,root,none
+Logical Network.node_17,0,Common ST,designated_port,Logical Network.node_17 <-> node_8
+Logical Network.node_17,0,Common ST,designated_port,Logical Network.Min_Router <-> node_17
