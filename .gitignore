@@ -3,4 +3,5 @@
 *.ef
 *.desinfo
 *.gdf
-*.olf
+*.olf.*
+*#*
