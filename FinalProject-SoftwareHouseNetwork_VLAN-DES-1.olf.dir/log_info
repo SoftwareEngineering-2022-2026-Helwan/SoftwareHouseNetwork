@@ -9,7 +9,7 @@ include_severity :	TRUE
 file_count :	1
 
 [File List:]
-17264_11-29-2024_12.06.55	33	12:06:56 Nov 29 2024	12:06:56 Nov 29 2024
+21216_12-03-2024_09.03.49	33	09:03:49 Dec 03 2024	09:03:50 Dec 03 2024
 
 [Column Dependency List:]
 dependency_count :	1
@@ -491,7 +491,7 @@ log_handle_column_count :	3
 5	Category	2	Results
 6	Class	2	IP
 7	SubClass	2	Unexpected_Results
-incident_count :	1801
+incident_count :	801
 
 log_handle_column_count :	3
 5	Category	2	Results
