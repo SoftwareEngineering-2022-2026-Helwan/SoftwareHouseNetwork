@@ -9,7 +9,7 @@ include_severity :	TRUE
 file_count :	1
 
 [File List:]
-3632_12-04-2024_07.45.03	7	07:45:04 Dec 04 2024	07:45:04 Dec 04 2024
+3844_12-05-2024_07.18.21	7	07:18:22 Dec 05 2024	07:18:22 Dec 05 2024
 
 [Column Dependency List:]
 dependency_count :	1
@@ -35,7 +35,7 @@ log_handle_column_count :	3
 5	Category	2	Configuration
 6	Class	2	Application
 7	SubClass	2	Setup
-incident_count :	1
+incident_count :	2
 
 log_handle_column_count :	3
 5	Category	2	Configuration
@@ -71,13 +71,13 @@ log_handle_column_count :	3
 5	Category	2	Configuration
 6	Class	2	IP
 7	SubClass	2	Model_Configuration_Error
-incident_count :	0
+incident_count :	1
 
 log_handle_column_count :	3
 5	Category	2	Configuration
 6	Class	2	IP
 7	SubClass	2	Model_Configuration_Warning
-incident_count :	3
+incident_count :	1
 
 log_handle_column_count :	3
 5	Category	2	Configuration

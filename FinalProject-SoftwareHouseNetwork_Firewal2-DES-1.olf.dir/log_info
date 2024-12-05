@@ -1,7 +1,7 @@
 
 [Log Info:]
 version :	1
-row_count :	3
+row_count :	5
 max_log_row :	5000
 max_file_row :	1000
 hide_date :	TRUE
@@ -9,7 +9,7 @@ include_severity :	TRUE
 file_count :	1
 
 [File List:]
-8404_12-03-2024_08.51.16	3	08:51:17 Dec 03 2024	08:51:19 Dec 03 2024
+6460_12-03-2024_21.48.33	5	21:48:34 Dec 03 2024	21:48:34 Dec 03 2024
 
 [Column Dependency List:]
 dependency_count :	1
@@ -28,12 +28,6 @@ incident_count :	0
 log_handle_column_count :	3
 5	Category	2	Configuration
 6	Class	2	Application
-7	SubClass	2	Custom Application
-incident_count :	0
-
-log_handle_column_count :	3
-5	Category	2	Configuration
-6	Class	2	Application
 7	SubClass	2	Phase
 incident_count :	0
 
@@ -41,7 +35,7 @@ log_handle_column_count :	3
 5	Category	2	Configuration
 6	Class	2	Application
 7	SubClass	2	Setup
-incident_count :	0
+incident_count :	2
 
 log_handle_column_count :	3
 5	Category	2	Configuration
@@ -209,12 +203,6 @@ log_handle_column_count :	3
 5	Category	2	Configuration
 6	Class	2	UDP
 7	SubClass	2	Neighbor Modules
-incident_count :	0
-
-log_handle_column_count :	3
-5	Category	2	Low-Level
-6	Class	2	Application
-7	SubClass	2	Custom Application
 incident_count :	0
 
 log_handle_column_count :	3

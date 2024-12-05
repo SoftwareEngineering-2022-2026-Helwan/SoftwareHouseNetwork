@@ -1,7 +1,7 @@
 
 [Log Info:]
 version :	1
-row_count :	3
+row_count :	6
 max_log_row :	5000
 max_file_row :	1000
 hide_date :	TRUE
@@ -9,7 +9,7 @@ include_severity :	TRUE
 file_count :	1
 
 [File List:]
-15036_11-24-2024_16.46.02	3	16:46:03 Nov 24 2024	16:46:11 Nov 24 2024
+13972_12-04-2024_10.55.20	6	10:55:20 Dec 04 2024	10:55:20 Dec 04 2024
 
 [Column Dependency List:]
 dependency_count :	1
@@ -83,7 +83,7 @@ log_handle_column_count :	3
 5	Category	2	Configuration
 6	Class	2	IP
 7	SubClass	2	Model_Configuration_Warning
-incident_count :	0
+incident_count :	3
 
 log_handle_column_count :	3
 5	Category	2	Configuration
